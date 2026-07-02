@@ -64,7 +64,7 @@ Flask web application with a complete DevOps pipeline. Stack: Docker · Kubernet
 ## Let's Connect
 
 📧 Open to data engineering and AI engineering roles in Germany
-🔗 [LinkedIn](https://linkedin.com/in/eyakhalij)
+🔗 [LinkedIn](https://www.linkedin.com/in/khalij-eya-8a3a06215/?skipRedirect=true)
 
 ---
 
